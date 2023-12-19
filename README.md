@@ -149,12 +149,7 @@ ID's Meaning:
   <tr>
     <td>
         <div align="center">
-            <a href="./docs/img/photo.png" target="_blank" rel="author">
-                <img src="https://avatars2.githubusercontent.com/u/36519478?s=460&v=4" style="border-radius: 10%; min-width: 100px;" alt="Israel Laguan's Photo" width="200px">
-            </a>
-            <h2>
-                <a href="https://israel-laguan.github.io/" target="_blank" rel="author">
-                    Israel Laguan
+
                 </a>
             </h2>
         </div>
